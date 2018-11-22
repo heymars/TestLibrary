@@ -81,7 +81,11 @@ install {
             name libraryName
             description libraryDescription
             url siteUrl
-
+            parent{
+                groupId "com.skv.testformlib"
+                artifactId "testformlib"
+                version "0.1.0"
+            }
             licenses {
                 license {
                     name licenseName
