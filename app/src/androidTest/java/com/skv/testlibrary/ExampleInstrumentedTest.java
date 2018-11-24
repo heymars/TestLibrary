@@ -1,4 +1,4 @@
-package com.skv.testformlib;
+package com.skv.testlibrary;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

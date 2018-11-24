@@ -1,4 +1,4 @@
-package com.skv.testformlib;
+package com.skv.testlibrary;
 
 import org.junit.Test;
 

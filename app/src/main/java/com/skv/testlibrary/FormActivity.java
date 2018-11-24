@@ -1,4 +1,4 @@
-package com.skv.testformlib;
+package com.skv.testlibrary;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
